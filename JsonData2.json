@@ -1,0 +1,89 @@
+[
+  {
+    "South Indian Dishes": [
+      {
+        "name": "Dosa",
+        "price": 6.99,
+        "description": "Thin, crispy rice pancake served with coconut chutney and sambar."
+      },
+      {
+        "name": "Idli",
+        "price": 4.99,
+        "description": "Steamed rice cake served with coconut chutney and sambar."
+      },
+      {
+        "name": "Vada",
+        "price": 5.99,
+        "description": "Deep-fried lentil fritters served with coconut chutney and sambar."
+      }
+    ],
+    "North Indian Dishes": [
+      {
+        "name": "Butter Chicken",
+        "price": 12.99,
+        "description": "Tender chicken cooked in a creamy tomato-based gravy, served with naan."
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 10.99,
+        "description": "Fresh spinach cooked with cottage cheese in a spiced tomato gravy, served with rice."
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 8.99,
+        "description": "Slow-cooked black lentils in a rich and creamy sauce, served with naan or rice."
+      }
+    ],
+    "Chinese Dishes": [
+      {
+        "name": "Sweet and Sour Chicken",
+        "price": 11.99,
+        "description": "Crispy chicken pieces tossed in a tangy sweet and sour sauce, served with fried rice."
+      },
+      {
+        "name": "Vegetable Manchurian",
+        "price": 9.99,
+        "description": "Deep-fried vegetable balls in a spicy sauce, served with noodles."
+      },
+      {
+        "name": "Kung Pao Shrimp",
+        "price": 13.99,
+        "description": "Stir-fried shrimp with peanuts and vegetables in a spicy Kung Pao sauce, served with steamed rice."
+      }
+    ],
+    "Italian Dishes": [
+      {
+        "name": "Margherita Pizza",
+        "price": 12.99,
+        "description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, and basil leaves."
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "price": 11.99,
+        "description": "Pasta with creamy sauce made from eggs, cheese, bacon, and black pepper."
+      },
+      {
+        "name": "Lasagna",
+        "price": 14.99,
+        "description": "Layers of pasta, meat sauce, and cheese baked to perfection."
+      }
+    ],
+    "Mexican Dishes": [
+      {
+        "name": "Tacos",
+        "price": 8.99,
+        "description": "Corn or flour tortillas filled with seasoned meat, salsa, and toppings."
+      },
+      {
+        "name": "Guacamole",
+        "price": 6.99,
+        "description": "Creamy avocado dip made with fresh avocados, onions, tomatoes, and spices."
+      },
+      {
+        "name": "Enchiladas",
+        "price": 10.99,
+        "description": "Rolled tortillas filled with meat, cheese, and sauce, baked to perfection."
+      }
+    ]
+  }
+]
